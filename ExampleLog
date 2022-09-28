@@ -1,0 +1,41 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+import
+File name:
+ExampleFile
+3 cards have been loaded.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+5
+Print the definition of "card1":
+def1
+Correct!
+Print the definition of "card1":
+def1
+Correct!
+Print the definition of "card1":
+f
+Wrong. The right answer is "def1".
+Print the definition of "card1":
+f
+Wrong. The right answer is "def1".
+Print the definition of "WhiteCat":
+Tiger
+Correct!
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+3
+Print the definition of "WhiteCat":
+f
+Wrong. The right answer is "Tiger".
+Print the definition of "6":
+4
+Correct!
+Print the definition of "card1":
+3
+Wrong. The right answer is "def1".
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+ExampleLog
